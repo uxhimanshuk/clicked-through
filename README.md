@@ -141,7 +141,7 @@ rather than presented as the plan all along.
 
 ## See also
 
-[`the-human-element`](https://github.com/uxrhimanshu/the-human-element) — the
+[`the-human-element`](https://the-human-element.netlify.app) — the
 quantitative counterpart: 10,042 public security incidents, asking where
 interfaces, defaults and warnings set people up to fail. It establishes that
 warnings fail at scale but cannot say why, because incident records store outcomes

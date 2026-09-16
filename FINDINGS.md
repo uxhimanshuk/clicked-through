@@ -179,7 +179,7 @@ judgement they made.
 
 ## What this converges with
 
-[`the-human-element`](https://github.com/uxrhimanshu/the-human-element) examined
+[`the-human-element`](https://the-human-element.netlify.app) examined
 10,042 public security incidents and found a large share running through
 interfaces, defaults and warnings that set people up to fail. It could not say why
 anyone proceeded, because incident records store outcomes.
