@@ -7,7 +7,7 @@ no answer they can give.**
 screening decisions and codebook are all in this repository, so the finding can be
 argued with rather than taken on trust.
 
-**→ [Read the report](https://uxrhimanshu.github.io/clicked-through/)** — the argument,
+**→ [Read the report](https://uxhimanshuk.github.io/clicked-through/)** — the argument,
 with all 76 items filterable by code and each linked back to the thread it came from.
 
 ---
@@ -75,7 +75,7 @@ Here, every step is a file:
 | [`codebook.md`](codebook.md) | code definitions, inclusion and exclusion criteria |
 | [`coded.csv`](coded.csv) | item → code, joins to the corpus on `item_id` |
 | [`corpus-lexical-screen/`](corpus-lexical-screen/) | a screening approach that **failed**, kept so the failure is inspectable |
-| [`index.html`](https://uxrhimanshu.github.io/clicked-through/) | the report, with the evidence explorable |
+| [`index.html`](https://uxhimanshuk.github.io/clicked-through/) | the report, with the evidence explorable |
 
 ```sh
 python3 check_quotes.py   # every quote, in FINDINGS.md *and* on the page, is in the corpus
@@ -134,9 +134,9 @@ rather than presented as the plan all along.
 
 ## Built with
 
-- [`fieldnotes`](https://github.com/uxrhimanshu/fieldnotes) — collected the corpus
+- [`fieldnotes`](https://github.com/uxhimanshuk/fieldnotes) — collected the corpus
   and wrote `SAMPLING.md`
-- [`research-deid`](https://github.com/uxrhimanshu/research-deid) — de-identified
+- [`research-deid`](https://github.com/uxhimanshuk/research-deid) — de-identified
   the text before analysis
 
 ## See also
@@ -150,6 +150,6 @@ having been designed to.
 
 ---
 
-Built by [Himanshu Kalra](https://uxrhimanshu.com). MIT licensed. Corpus items are
+Built by [Himanshu Kalra](https://himanshukalra.com). MIT licensed. Corpus items are
 public posts by their authors, pseudonymised; the re-identification key is not
 published.
